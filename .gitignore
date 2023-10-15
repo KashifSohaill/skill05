@@ -22,5 +22,4 @@ dist/
 *.swp
 
 # Ignore package-lock files for npm and yarn
-package-lock.json
 yarn.lock
